@@ -1,5 +1,5 @@
 :root {
-    --controller-background-image: url(https://cdn.statically.io/gh/AlexanderSkrock/GamePadViewer/master/images/base.svg);
+    --controller-background-image: url(https://cdn.statically.io/gh/gantoreno/gruffly-overlay/master/images/base.svg);
     --controller-disconnected-image: url(https://cdn.statically.io/gh/AlexanderSkrock/GamePadViewer/master/images/disconnected.svg);
     --controller-touchpad-image: url(https://cdn.statically.io/gh/AlexanderSkrock/GamePadViewer/master/images/logo.png);
     --controller-trigger-image: url(https://cdn.statically.io/gh/AlexanderSkrock/GamePadViewer/master/images/trigger.svg);
