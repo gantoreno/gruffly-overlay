@@ -1,8 +1,7 @@
-<svg width="45" height="45" viewBox="0 0 45 45" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="45" height="45" viewBox="0 0 45 45" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_22_2)">
 <path d="M17.374 27.635H8.836V36.164H17.374V27.635Z" fill="#1A1A1A"/>
 <path d="M16.875 28.135V35.664H9.336V28.135H16.875ZM17.875 27.135H8.336V36.664H17.874L17.875 27.135Z" fill="#760A0A"/>
-<rect x="-1.3672" y="-1.6235" width="29" height="29" fill="url(#pattern0)"/>
 <path d="M17.374 8.836H8.836V17.374H17.374V8.836Z" fill="#D51212"/>
 <path d="M16.875 9.336V16.874H9.336V9.336H16.875ZM17.875 8.336H8.336V17.874H17.874L17.875 8.336Z" fill="#760A0A"/>
 <path d="M36.163 8.836H27.625V17.374H36.163V8.836Z" fill="#1A1A1A"/>
@@ -11,12 +10,8 @@
 <path d="M35.664 28.135V35.664H28.126V28.135H35.664ZM36.664 27.135H27.126V36.664H36.664V27.135Z" fill="#760A0A"/>
 </g>
 <defs>
-<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_22_2" transform="scale(0.0344828)"/>
-</pattern>
 <clipPath id="clip0_22_2">
 <rect width="45" height="45" fill="white"/>
 </clipPath>
-<image id="image0_22_2" width="29" height="29" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAAACXBIWXMAAAsSAAALEgHS3X78AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAgVJREFUeNrEVg1PwjAUbKHbGBKMGv//LyRGHJuwjdqae3p5dAVizJZcCP1413tfrTEzfPaexd77yfXWWv9nUkVgM/s0mb92EJshtLRGwySINL7HU8Q2QxixSMAmlEacE/ApYjtBKATLAKcgc/IJwaAwMjkTu4zCOFcCFVAAolgU9sAROAGDuDrY/4mxS8RHFEayVcA64AG/K4yLYlEYCT4D2oADftn1IxO4RIxZZSTaEjYBNeaENBJ2AU3AHgcWt48qvhek2rUVFEayF+ARYxWMj3BnVPcO1xuMi8sHsu2vKa1IaSR8xe8WaoW0g8ISNiS2HVy+0AnrVCNg0gIx3EChED/hMELa4oAGro5u/sB+x6SRJyZTSqkQFzh9TW6OhM8gdXDdCnuPUCwxLybq+iKmRtWpo5KpQbaGeiE1cGONdaWqZ7Y7WTImQb4kcKMQGzy/SMUxVzK6n54p9QUDKeTuM06VSI7UJ8ik8CUbW4qhuLcFOupGQ4LcTyn1qrVJ4R+QJBXFkLP3DfMHrD9h/1ndOr+kMY1RNp4U9jDeoPBLytJUne6wrsG+nhR7vl/dRBwHGG9hsKA63Gc60g7zLcaHVHzdhGsHMrakTtPc0HvFzZo0G1NOoJZ66RGd5tZb5nSLUqNuhxP976Hm3vtUSsjM/nKY/40022twtnfvf7/wZ/m+BBgAtj8+Ynywy1AAAAAASUVORK5CYII="/>
 </defs>
 </svg>
